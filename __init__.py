@@ -9,7 +9,7 @@ import regex
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
 
-        self.i = 0
+        self.i = 0 
         self.value_ = 1
         self.stopwatch_paused = False
         self.TimerPaused = False
